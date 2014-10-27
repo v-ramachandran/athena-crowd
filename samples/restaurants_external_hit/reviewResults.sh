@@ -17,6 +17,6 @@
 #!/usr/bin/env bash
 cd ../..
 cd bin
-./reviewResults.sh $1 $2 $3 $4 $5 $6 $7 $8 $9 -resultsfile ../samples/external_hit/external_hit.results
+./reviewResults.sh $1 $2 $3 $4 $5 $6 $7 $8 $9 -resultsfile ../samples/restaurants_external_hit/external_hit.results
 cd ..
-cd samples/external_hit
+cd samples/restaurants_external_hit

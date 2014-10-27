@@ -16,6 +16,6 @@
 
 cd ../..
 cd bin
-./loadHITs.sh $1 $2 $3 $4 $5 $6 $7 $8 $9 -label ../samples/external_hit/external_hit -input ../samples/external_hit/external_hit.input -question ../samples/external_hit/external_hit.question -properties ../samples/external_hit/external_hit.properties 
+./loadHITs.sh $1 $2 $3 $4 $5 $6 $7 $8 $9 -label ../samples/restaurants_external_hit/restaurants_external_hit -input ../samples/restaurants_external_hit/external_hit.input -question ../samples/restaurants_external_hit/external_hit.question -properties ../samples/restaurants_external_hit/external_hit.properties 
 cd ..
-cd samples/external_hit
+cd samples/restaurants_external_hit

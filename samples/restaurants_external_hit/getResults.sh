@@ -16,6 +16,6 @@
 
 cd ../..
 cd bin
-./getResults.sh $1 $2 $3 $4 $5 $6 $7 $8 $9 -successfile ../samples/external_hit/external_hit.success -outputfile ../samples/external_hit/external_hit.results
+./getResults.sh $1 $2 $3 $4 $5 $6 $7 $8 $9 -successfile ../samples/restaurants_external_hit/external_hit.success -outputfile ../samples/restaurants_external_hit/external_hit.results
 cd ..
-cd samples/external_hit
+cd samples/restaurants_external_hit
